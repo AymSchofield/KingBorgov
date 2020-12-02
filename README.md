@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alensaito1" alt="alensaito1" /> </p>
 
-- 🔭 Actualmente estoy trabajando en [B-BOT](https://github.com/SomnathDas/Whatsapp-Botto-Re)
+- 🔭 Actualmente estoy trabajando en [B-BOT](https://github.com/KingBorgov/B-BOT)
 
 - 🌱 Actualmente estoy aprendiendo **Javascript y Go**
 
