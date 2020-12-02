@@ -26,14 +26,14 @@
 [![ borgov github estadisticas](https://github-readme-stats.vercel.app/api?username=KingBorgov&show_icons=true&hide_border=true&hide=issues)](https://github.com/KingBorgov)
 
 
-<whatsapp-button phone="9744375687" dialcode="91" text="Hey there lets chat!" label="Start Chat"></whatsapp-button>
+<whatsapp-boton telefono="17066666666" dialcode="91" text="Hey there lets chat!" label="Start Chat"></WhatsApp Telefono>
 
 
 
 
 <p align="center">
-<a href="https://twitter.com/takahiroban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="takahiroban" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/14202014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14202014" height="30" width="30" /></a>
-<a href="https://fb.com/ban takahiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ban takahiro" height="30" width="30" /></a>
-<a href="https://instagram.com/ban_takahiro_otaku" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ban_takahiro_otaku" height="30" width="30" /></a>
+<a href="https://twitter.com/KingBorgov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="takahiroban" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/14752386" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14202014" height="30" width="30" /></a>
+<a href="https://fb.com/KingBorgov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ban takahiro" height="30" width="30" /></a>
+<a href="https://instagram.com/07.5.01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ban_takahiro_otaku" height="30" width="30" /></a>
 </p>
