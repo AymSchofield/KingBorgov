@@ -26,7 +26,7 @@
 [![ borgov github estadisticas](https://github-readme-stats.vercel.app/api?username=KingBorgov&show_icons=true&hide_border=true&hide=issues)](https://github.com/KingBorgov)
 
 
-<whatsapp-boton telefono="17066666666" dialcode="91" text="Hey there lets chat!" label="Start Chat"></WhatsApp Telefono>
+<whatsapp-button telefono="17066666666" dialcode="91" text="Hey there lets chat!" label="Start Chat"></whatsapp-button>
 
 
 
