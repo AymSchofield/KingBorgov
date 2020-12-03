@@ -2,7 +2,7 @@
 <h1 align="center">Hey que onda 👋, Yo soy Borgov</h1>
 <h3 align="center">No es necesario recordar el valor, porque nunca se olvida.</h3>
 
-<img align="right" alt="GIF" height="256px" src="https://media.giphy.com/media/WMANczU3RTYYN5OjJf/giphy.gif" />
+<img align="right" alt="GIF" height="256px" src="https://media.giphy.com/media/4uBAYNY2MaDmARmfQc/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alensaito1" alt="alensaito1" /> </p>
 
